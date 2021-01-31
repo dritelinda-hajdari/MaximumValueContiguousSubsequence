@@ -4,7 +4,6 @@ namespace DynamicProgramming
 {
     class Program
     {
-
         static double [] calculateMaxValueContiguousSubsequence(double[] array)
         {
             double[] F = new double[array.Length];
